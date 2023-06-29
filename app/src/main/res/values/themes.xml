@@ -3,6 +3,7 @@
     <style name="Base.Theme.Animations" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:colorPrimary">@color/custom</item>
     </style>
 
     <style name="Theme.Animations" parent="Base.Theme.Animations" />
